@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lets-talk-app/static/css/main.c89df728.css",
+    "main.js": "/lets-talk-app/static/js/main.06238b80.js",
+    "index.html": "/lets-talk-app/index.html",
+    "main.c89df728.css.map": "/lets-talk-app/static/css/main.c89df728.css.map",
+    "main.06238b80.js.map": "/lets-talk-app/static/js/main.06238b80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c89df728.css",
+    "static/js/main.06238b80.js"
+  ]
+}
